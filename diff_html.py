@@ -1,6 +1,7 @@
 #!/usr/bin/python
 # -*- coding:utf-8 -*-
 #author:idler
+#time:20160516
 import difflib
 import sys
  
